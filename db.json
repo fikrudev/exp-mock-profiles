@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "usrAge": 13,
+      "usrUUID": "882c3e5c-7258-47a4-bb64-5aaf54806965",
+      "usrName": "Rowena, DuBuque",
+      "intUserName": "Torey7",
+      "usrPhone": "973-251-0969 x5230",
+      "usrEmail": "Joy_Sporer14@gmail.com",
+      "usrAddress": "2711 Green Motorway",
+      "usrStateCityZipCode": "New Tristian, MN,97056-9865",
+      "usrLatitude": "22.8725",
+      "usrLngLat": "-8.6864, 31.2603",
+      "usrAvatar": "https://s3.amazonaws.com/uifaces/faces/twitter/derienzo777/128.jpg"
+    }
+  ],
+  "meta": {}
+}
